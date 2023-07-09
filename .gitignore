@@ -47,3 +47,7 @@ yarn-error.log*
 
 .idea
 
+**/venv/
+**/data/
+
+/server/music_analysis
